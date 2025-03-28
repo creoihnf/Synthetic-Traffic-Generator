@@ -1,0 +1,24 @@
+echo "# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambiente Virtual
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Arquivos de configuração locais
+config.ini
+*.cfg
+
+# Arquivos de build
+build/
+dist/
+*.egg-info/" > .gitignore
